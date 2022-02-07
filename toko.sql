@@ -161,7 +161,7 @@ insert into item values
 insert into customer values
 ('CS001','Jeff','22 Jump Street','mynamejeff@gmail.com','083344580012'),
 ('CS002','Nina','10 Turnip Street','nina10@gmail.com','081245992341'),
-('CS003','Adolf','88 Reich Street','adolf@gmail.com','499019451488'),
+('CS003','Bobby','77 High Street','bobby@gmail.com','499019451488'),
 ('CS004','Amon Gus','Sus Street','impostor@gmail.com','081134428899'),
 ('CS005','Bofa','Ligma Street','sugma@gmail.com','420420696969');
 
