@@ -1,11 +1,11 @@
 Projek Database Toko
 
-Christopher - 2301924025​
+Christopher
 
-Daryl - 2301890163​
+Daryl
 
-Imanuel - 2301876436​
+Imanuel
 
-Irvan - 2301876423​
+Irvan
 
-Rafael - 2301919800
+Rafael
